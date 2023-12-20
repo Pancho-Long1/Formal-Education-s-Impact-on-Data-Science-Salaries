@@ -21,7 +21,7 @@ As someone who is currently making decisions on whether a degree will help out t
 
 ![Mean Anual Salary By Education Level](https://github.com/Pancho-Long1/Formal-Education-s-Impact-on-Data-Science-Salaries/assets/150916888/ef21d3a1-f8cf-4ca3-80c2-a391927f115a)
 
-![Formal Educations Impact on Salary Per Continent](https://github.com/Pancho-Long1/Formal-Education-s-Impact-on-Data-Science-Salaries/assets/150916888/10913ef8-e347-48ab-bef6-5928049c2053)
+![Screenshot 2023-12-20 181318](https://github.com/Pancho-Long1/Formal-Educations-Impact-on-Data-Science-Salaries/assets/150916888/3712e375-949a-4b41-b365-4c12e6127aa4)
 
 ![image](https://github.com/Pancho-Long1/Formal-Education-s-Impact-on-Data-Science-Salaries/assets/150916888/2c8746f0-fb06-4981-b73a-416b8b400aa3)
 
