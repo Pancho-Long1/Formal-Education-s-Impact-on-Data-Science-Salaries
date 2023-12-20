@@ -1,4 +1,4 @@
-# Formal-Education-s-Impact-on-Data-Science-Salaries
+# Formal Education's Impact on Data Science Salaries
 
 ## Introduction
 
