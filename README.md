@@ -17,6 +17,8 @@ As someone who is currently making decisions on whether a degree will help out t
 * As expected, the most developed continents have the highest pay increase, though, interestingly, Africa has the lowest GNI yet a higher income increase than Asia. This suggests that Africa values education more than Asia even after taking into account their socioeconomic position.
 * Similarly, the highest GNI countries tend to have the highest pay increase, though the interesting part of this visualisation are the countries which do not comply with this idea. Columbia and Nepal both have much lower GNIs yet still have a decent pay increase, suggesting that they value formal education very highly; whilst, Italy and France seem to put much less importance on formal education, having a high GNI yet an increase in income lower than much poorer countries.
 
+## Final Visualisations:
+
 ![Mean Anual Salary By Education Level](https://github.com/Pancho-Long1/Formal-Education-s-Impact-on-Data-Science-Salaries/assets/150916888/ef21d3a1-f8cf-4ca3-80c2-a391927f115a)
 
 ![Formal Educations Impact on Salary Per Continent](https://github.com/Pancho-Long1/Formal-Education-s-Impact-on-Data-Science-Salaries/assets/150916888/10913ef8-e347-48ab-bef6-5928049c2053)
